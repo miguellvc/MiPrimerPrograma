@@ -18,6 +18,7 @@
 		<label>Apellido</label>
 		<input type="text" name="apellido">
 		<input type="submit" name="Enviar">
+		<label>Email</label>
 
 	</form>
 
